@@ -11,7 +11,7 @@ Made And Edit By SaM ⭐️ Co-Fouder Of Enforcers
 
 ### Login
 ```
-Username : Administor 
+Username : administrator 
 
 Password : enf@21
 
