@@ -1,4 +1,4 @@
-# Avi_RDP 🍃
+# Enforcers_Server 🍃
 
 it's all free, don't be stingy ⭐️ yes: D
 
@@ -9,40 +9,39 @@ it's all free, don't be stingy ⭐️ yes: D
 
 <br>
 
-### HOW TO CREATE Avi_RDP
+### Details
 ```
-> Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
+> Username : Administor 
 
-> visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
+> Password : enf@21
 
-> Inside this Repo Go to Settings> Secrets> New repository secret
+> Whatsapp Chat Group : https://chat.whatsapp.com/F6pBrBYRB9H3vbd8ahC4Xy
 
-> Fill in the Name: Enter NGROK_AUTH_TOKEN
+> Whatsapp Game Upload Group : https://chat.whatsapp.com/Kk79IxTe0MQK0qNAXzXRI1
 
-> Fill in Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in the value
+> Whatsapp Movies&Tv Group : https://chat.whatsapp.com/ESFeQTvqk8WGSPBuYZkGlu
 
-> Press Add secret 
+> Whatsapp Apps&Software Group : https://chat.whatsapp.com/CqjuEeSD5pLBfXwOZAGBEW
 
-> Go to Action> CI> Run workflow
+> Website - www.enforcers.ml
 
-> Refresh Web and go to CI> build
+> Discord - https://discord.gg/PHnAsS8nQG
 
-> Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
-```
 
-### Configuration
+
+
+Server Specs 
 ```
 CPU 2core - 7GB Ram - 256 SSD
+
+Windows Server 2019
 ```
 
-### WARN
+### Editor
 ```
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
+SaM ™#4004
 
-DON'T USE FOR MINING OR ILLEGAL USE
-
-DON'T RECODE THIS SC!
 ```
 ---
 
-#### Main Repository : https://github.com/proavipatil/AviRDP
+#### Website : https://enforcers.ml/
