@@ -45,7 +45,7 @@ Windows Server 2019
 
 ### Editor
 ```
-SaM ™#4004
+SaM ™#4004 (Discord User Name)
 
 ```
 ---
