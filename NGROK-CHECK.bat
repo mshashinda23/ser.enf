@@ -5,9 +5,9 @@ REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" 
 curl -O https://raw.githubusercontent.com/vongocbao/WindowsRDP/main/DisablePasswordComplexity.ps1 > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Fast Config VPS.exe" https://raw.githubusercontent.com/vongocbao/WindowsRDP/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\EVKey Vietnamese Keyboard.exe" https://raw.githubusercontent.com/vongocbao/WindowsRDP/main/EVKey64.exe > out.txt 2>&1
-net user enforcers enf@21 /add >nul
-net localgroup administrators enforcers /add >nul
-net user enforcers /active:yes >nul
+net user administrator enf@21 /add >nul
+net localgroup administrators administrator /add >nul
+net user administrator /active:yes >nul
 diskperf -Y >nul
 sc config Audiosrv start= auto >nul
 sc start audiosrv >nul
