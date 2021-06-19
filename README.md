@@ -1,11 +1,11 @@
 # Enforcers_Server 🍃
 
-it's all free, don't be stingy ⭐️ yes: D
+Made And Edit By SaM ⭐️ Co-Fouder Of Enforcers 
 
-#### ^_^ Works For 6 hrs
+#### This Will Only Works For 6 hrs
 
 
-#### ⚠ Don't Edit AnyThing to keep Running Without any Error (+_+)
+#### ⚠ Don't Edit AnyThing to keep Running Without any Error 
 
 <br>
 
