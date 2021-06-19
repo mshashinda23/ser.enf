@@ -27,10 +27,11 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Discord - https://discord.gg/PHnAsS8nQG
 
+```
+<br>
 
 
-
-Server Specs 
+#### Server Spec
 ```
 CPU 2core - 7GB Ram - 256 SSD
 
