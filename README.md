@@ -1,6 +1,6 @@
 # Enforcers_Server 🍃
 
-Made And Edit By SaM ⭐️ Co-Fouder Of Enforcers 
+Made And Edit By SaM ⭐️ sam.enforcers.lk
 
 #### This Will Only Works For 6 hrs
 
@@ -45,9 +45,9 @@ Windows Server 2019
 
 ### Editor
 ```
-SaM ™#4004 (Discord User Name)
+SaM ™#9353 (Discord User Name)
 
 ```
 ---
 
-#### Website : https://enforcers.ml/
+#### Website : https://enforcers.lk/
