@@ -36,7 +36,7 @@ Password : enf@21
 <br>
 
 
-#### Server Spec
+#### Spec
 ```
 CPU 2core - 7GB Ram - 256 SSD
 
