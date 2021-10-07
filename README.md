@@ -1,6 +1,6 @@
-# Enforcers_Reverse_RDP_Code 🍃
+# Enforcers_Reverse_RDP_Code 
 
-Made And Edit By SaM ⭐️ sam.enforcers.lk
+Made And Edit By SaM ⭐️
 
 #### This Will Only Works For 6 hrs
 
