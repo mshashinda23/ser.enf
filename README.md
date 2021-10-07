@@ -1,6 +1,6 @@
 # Enforcers_Reverse_RDP_Code 
 
-Made And Edit By SaM ⭐️
+Edit By SaM ⭐️ Mostly Sutable For Asian Users
 
 #### This Will Only Works For 6 hrs
 
