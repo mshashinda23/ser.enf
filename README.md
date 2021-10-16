@@ -1,6 +1,6 @@
 # Reverse_RDP_Code 
 
-Edit By SaM ⭐️ Mostly Sutable For Asian Users
+Config By SaM ⭐️ Mostly Sutable For Asian Users
 
 #### This Will Only Works For 6 hrs
 
